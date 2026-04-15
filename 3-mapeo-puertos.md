@@ -11,9 +11,11 @@ docker run -d --name <nombre contenedor> -p <puerto host>:<puerto contenedor> <n
 
 ```
 Crear un contenedor a partir de la imagen nginx version alpine con el mapeo de puertos del ejemplo gráfico, host 3000 y contenedor 80
-# COMPLETAR
+<img width="825" height="65" alt="image" src="https://github.com/user-attachments/assets/666efcb0-4150-4abb-8c3a-981604b51513" />
 
-# COLOCAR UNA CAPTURA DE PANTALLA  DEL ACCESO http://localhost:3000
+
+<img width="1898" height="1011" alt="image" src="https://github.com/user-attachments/assets/3eae09d0-ca5a-4bb2-9cfb-5aa8a2e8bc29" />
+
 
 ### Para mapear más de un puerto
 
@@ -22,7 +24,9 @@ docker run -d --name <nombre contenedor> -p <puerto host 01>:<puerto contenedor 
 ```
 
 Crear un contenedor a partir de la imagen rabbitmq version management-alpine, para este mapeo de puertos usar en el host los mismos puertos del contenedor.
-# COMPLETAR
+<img width="1447" height="524" alt="image" src="https://github.com/user-attachments/assets/d1b6e9f4-ac6c-4e96-9edd-e02edc45c71e" />
+
+<img width="1902" height="1001" alt="image" src="https://github.com/user-attachments/assets/85e27412-2909-4678-8f53-59d6e3da98ad" />
 
 ### Usando una forma más semántica cuando se especifican puertos
 
@@ -40,9 +44,13 @@ docker run -P -d --name <nombre contenedor> <nombre imagen>:<tag>
 No puedes mapear puertos a un contenedor existente directamente después de su creación con Docker. El mapeo de puertos debe especificarse en el momento de crear y ejecutar el contenedor.
 
 ### Crear contenedor de Jenkins puertos contenedor: 8080 (interface web) y 50000 (comunicación entre nodos) imagen: jenkins/jenkins:alpine3.18-jdk11
-# COMPLETAR
+<img width="1097" height="453" alt="image" src="https://github.com/user-attachments/assets/d7ea2e7a-747c-4751-abf4-b524330e6f30" />
 
-# COLOCAR UNA CAPTURA DE PANTALLA  DEL ACCESO http://localhost:8080
+
+
+# http://localhost:8080
+<img width="1917" height="1018" alt="image" src="https://github.com/user-attachments/assets/16bc24bc-0cc4-497b-a957-4d16dd053ef1" />
+
 
 ### ¿Cómo obtener la contraseña solicitada?
 Para obtener la contraseña solicitada es necesario ingresar al contenedor.
