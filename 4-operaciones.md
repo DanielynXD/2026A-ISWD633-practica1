@@ -54,6 +54,13 @@ Ejecutar
 ```
 whoami
 ```
+<img width="559" height="87" alt="image" src="https://github.com/user-attachments/assets/6a3be746-9c98-44ae-9fd3-c18c87e8898d" />
+
+<img width="577" height="85" alt="image" src="https://github.com/user-attachments/assets/c1aa118a-1e6a-42cc-a6eb-84072d0bf4ae" />
+
+
+
+
 # COLOCAR UNA CAPTURA DE PANTALLA
 
 **Si se visualiza el mensaje command not found, considerar**
@@ -74,9 +81,14 @@ docker exec -it <nombre contenedor> <programa o comando>
 
 ### Ahora puedes acceder al contenedor de jenkins y obtener la contraseña ubicada en /var/jenkins_home/secrets/initialAdminPassword
 
-# COMPLETAR
+<img width="693" height="169" alt="image" src="https://github.com/user-attachments/assets/a1802eaa-62d5-48ac-944f-8aa923a5070c" />
+
 
 ### Colocar una captura de pantalla de la ventana que aparece después de colocar la contraseña.
+
+<img width="1909" height="1015" alt="image" src="https://github.com/user-attachments/assets/b6997edd-7ccd-4592-a4ea-c4ffa589e2cb" />
+
+
 
 **Para este punto no es necesario continuar con la instalación de Jenkins**
 
