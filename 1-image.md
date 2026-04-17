@@ -19,7 +19,7 @@ Descargar la imagen **hello-world**
 
 
 **¿Qué es nginx?**
-Es un software open source para servicio web, proxy inverso, almacenamiento caché, equilibrio de carga, transmición multimedia y más.
+Es un software open source para servicio web, proxy inverso, almacenamiento caché, equilibrio de carga, transmición multimedia y más
 
 Descargar la imagen  **nginx** en la versión **alpine**
 
