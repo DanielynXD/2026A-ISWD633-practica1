@@ -4,12 +4,18 @@
 ```
 docker exec <nombre contenedor> <comando> <argumentos opcionales>
 ```
-# COMPLETAR
-### ¿Para qué se usa el comando ls?
-### ¿Para qué sirve el argumento -l junto al comando ls?
+###ls
+<img width="538" height="479" alt="image" src="https://github.com/user-attachments/assets/b21abd10-f0c4-41dc-8084-e83273372b30" />
+
+
+### ¿Para qué se usa el comando ls?.
+ Mostrar el contenido de un directorio.
+### ¿Para qué sirve el argumento -l junto al comando ls?.
+ Transforma la lista simple en una tabla detallada con metadatos de cada elemento.
 ### Usar el contenedor de jenkins creado previamente y ejecutar el comando ls con el argumento -l
-# COMPLETAR
-# COLOCAR UNA CAPTURA DE PANTALLA
+
+<img width="748" height="510" alt="image" src="https://github.com/user-attachments/assets/34e4dcf5-a5b4-4838-89af-96898f32c2ee" />
+
 
 ### Para ejecutar un shell interactivo en un contenedor de Docker especificado.
 El comando **docker exec** te permite acceder a la sesión shell de un contenedor en ejecución, estarás dentro del contenedor y podrás ejecutar comandos como si estuvieras en una terminal normal. 
